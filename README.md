@@ -43,6 +43,7 @@ Features include product catalog, cart, authentication, checkout, coupons, analy
 ---
 
 ### 🔹 **Portfolio with Dynamic Admin Panel**  
+📌 Repo: https://github.com/manoj-mutireddygari/Portfolio.git
 A complete portfolio website with an integrated admin dashboard to manage content (About, Skills, Education, Projects, etc.) in real-time using **HTML, CSS, JS, PHP, and MySQL**.
 
 ---
