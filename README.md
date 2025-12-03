@@ -37,13 +37,13 @@ Includes authentication, agent management, advanced scheduling engine, SMTP deli
 
 ### 🔹 **Lee Sage – Luxury Fashion E-commerce Platform**  
 📌 Repo: https://github.com/manoj-mutireddygari/leesage  
-A premium e-commerce website with a modern frontend, secure backend, and a powerful admin panel.  
+A premium e-commerce website with a modern frontend, secure backend, and a powerful admin panel.   
 Features include product catalog, cart, authentication, checkout, coupons, analytics dashboard, order management, inventory control, and review moderation.
 
 ---
 
 ### 🔹 **Portfolio with Dynamic Admin Panel**  
-📌 Repo: https://github.com/manoj-mutireddygari/Portfolio.git
+📌 Repo: https://github.com/manoj-mutireddygari/Portfolio.git  
 A complete portfolio website with an integrated admin dashboard to manage content (About, Skills, Education, Projects, etc.) in real-time using **HTML, CSS, JS, PHP, and MySQL**.
 
 ---
