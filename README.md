@@ -1,76 +1,142 @@
-# Manoj Mutireddygari — AI & ML Engineer
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?logo=google-chrome)](https://manojmutireddy.42web.io/)
-[![GitHub followers](https://img.shields.io/github/followers/manoj-mutireddygari?label=Follow&style=social)](https://github.com/manoj-mutireddygari)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/manojmutireddygari)
-[![Email](https://img.shields.io/badge/Email-mutireddymanoj2305%40gmail.com-lightgrey?logo=gmail)](mailto:mutireddymanoj2305@gmail.com)
+# Manoj Mutireddygari
 
----
+### AI Engineer • Full-Stack Developer • Machine Learning Enthusiast
 
-## 👋 About Me
-Aspiring **AI & Machine Learning Engineer** specializing in deep learning, automation systems, and intelligent full-stack applications.  
-Certified in **Machine Learning (Stanford Online)** and actively developing expertise in **DSA, MLOps, prompt engineering, and scalable AI agents**.
+Building intelligent systems, AI-powered applications, and scalable software solutions.
 
-Focused on building systems that combine **logic, data, and user-centric design**—from real-world automation tools to end-to-end web platforms.
+<p>
+  <a href="https://manojmutireddy.42web.io/">Portfolio</a> •
+  <a href="https://github.com/manoj-mutireddygari">GitHub</a> •
+  <a href="https://www.linkedin.com/in/manojmutireddygari">LinkedIn</a> •
+  <a href="mailto:mutireddymanoj2305@gmail.com">Email</a>
+</p>
 
----
-## 🧠 Professional Summary
-- 🎓 **B.Tech CSE (AI & ML)** — Takshashila University (2027)  
-- 📘 **Machine Learning @ Stanford Online**  
-- 💡 **Hands-on experience** with AI-powered apps, CV models, deep learning workflows  
-- 🧩 **Strong DSA fundamentals** (LeetCode, coding contests)  
-- 🛠️ Experience with **Flask, Supabase, XAMPP, MeshCentral, GitHub, SQL, APIs**  
-- 🤝 Team-driven mindset — regular hackathon participant  
-- 🌱 Passionate lifelong learner with a focus on emerging AI tools and frameworks  
-
-I enjoy transforming complex ideas into simple, functional, real-world systems.
+</div>
 
 ---
 
-## 🏗️ Featured Projects
+## About Me
 
-### 🔹 **Octopus – Multi-Agent AI Automation System**  
-📌 Repo: https://github.com/manoj-mutireddygari/Octopus  
-A production-grade automation platform with **8 independent AI agents** performing scheduled tasks and delivering updates through email + internal inbox.  
-Includes authentication, agent management, advanced scheduling engine, SMTP delivery, inbox UI, error-handling, and enterprise-grade UX.
+🎓 **B.Tech in Computer Science Engineering (AI & ML)**
+Takshashila University • Expected Graduation: 2027
 
----
+🤖 Machine Learning Certified through Stanford Online
 
-### 🔹 **Lee Sage – Luxury Fashion E-commerce Platform**  
-📌 Repo: https://github.com/manoj-mutireddygari/leesage  
-A premium e-commerce website with a modern frontend, secure backend, and a powerful admin panel.   
-Features include product catalog, cart, authentication, checkout, coupons, analytics dashboard, order management, inventory control, and review moderation.
+💡 Passionate about Artificial Intelligence, Machine Learning, Full-Stack Development, and Automation Systems.
+
+🚀 Currently building intelligent applications, AI agents, and scalable web platforms while continuously improving my problem-solving and software engineering skills.
 
 ---
 
-### 🔹 **Portfolio with Dynamic Admin Panel**  
-📌 Repo: https://github.com/manoj-mutireddygari/Portfolio.git  
-A complete portfolio website with an integrated admin dashboard to manage content (About, Skills, Education, Projects, etc.) in real-time using **HTML, CSS, JS, PHP, and MySQL**.
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,java,cpp,javascript,php,mysql,postgresql,flutter,docker,git,github,vscode" />
+</p>
+
+### AI & Machine Learning
+
+* TensorFlow
+* PyTorch
+* Scikit-learn
+* CNNs
+* Deep Learning
+* Data Preprocessing
+* Model Training
+
+### Programming Languages
+
+* Python
+* Java
+* C
+* C++
+* JavaScript
+* SQL
+
+### Development & Tools
+
+* Flask
+* PHP
+* REST APIs
+* Supabase
+* MySQL
+* PostgreSQL
+* Git & GitHub
+* XAMPP
+* Docker (Basic)
+* Flutter (Basic)
 
 ---
 
-## 🛠️ Skills & Tools
-**AI/ML:** TensorFlow, PyTorch, Scikit-learn, CNNs, data pipelines  
-**Programming:** Python, C, C++, Java, JavaScript, SQL  
-**Development:** Flask, PHP, Supabase, XAMPP, REST APIs, Flutter (basic)  
-**Other:** Git/GitHub, MySQL, PostgreSQL, Docker (basic), prompt engineering  
+## Featured Projects
 
----
-## 🎖️ Achievements & Interests
-- ML certification from **Stanford Online**  
-- Built multiple **AI-driven applications**  
-- Created cross-platform **full-stack and mobile apps**  
-- Strong presence on **GitHub, LinkedIn, LeetCode, CodeChef**  
-- Passionate about **hackathons**, problem-solving, and impactful tech  
-- Exploring **HealthTech AI**, agent-based systems, and scalable ML pipelines  
+### Octopus — Multi-Agent AI Automation System
+
+A production-grade automation platform powered by multiple AI agents capable of handling scheduled tasks, notifications, email delivery, inbox management, and workflow automation.
+
+**Repository:**
+https://github.com/manoj-mutireddygari/Octopus
 
 ---
 
-## 📫 Connect With Me
-- **Portfolio:** https://manojmutireddy.42web.io/  
-- **LinkedIn:** https://www.linkedin.com/in/manojmutireddygari/  
-- **Email:** mutireddymanoj2305@gmail.com  
+### Lee Sage — Luxury Fashion E-Commerce Platform
+
+A premium e-commerce solution featuring authentication, inventory management, order processing, analytics, coupon systems, product reviews, and an advanced admin dashboard.
+
+**Repository:**
+https://github.com/manoj-mutireddygari/leesage
 
 ---
 
-### ⚡ “Turning intelligent ideas into intelligent systems.”  
+### Dynamic Portfolio CMS
+
+A personal portfolio platform with a custom-built admin panel allowing real-time management of projects, skills, education, and professional information.
+
+**Repository:**
+https://github.com/manoj-mutireddygari/Portfolio
+
+---
+
+## Achievements
+
+* Machine Learning Certification — Stanford Online
+* Built Multiple AI-Powered Applications
+* Active Hackathon Participant
+* Strong Foundation in Data Structures & Algorithms
+* Experience Developing Full-Stack Web Applications
+* Exploring Agentic AI, MLOps, and Scalable AI Systems
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manoj-mutireddygari&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-mutireddygari&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoj-mutireddygari&theme=tokyonight" />
+</p>
+
+---
+
+## Connect With Me
+
+📧 Email: [mutireddymanoj2305@gmail.com](mailto:mutireddymanoj2305@gmail.com)
+
+🌐 Portfolio: https://manojmutireddy.42web.io/
+
+💼 LinkedIn: https://www.linkedin.com/in/manojmutireddygari/
+
+🐙 GitHub: https://github.com/manoj-mutireddygari
+
+---
+
+<div align="center">
+
+### "Turning intelligent ideas into intelligent systems."
+
+</div>
