@@ -1,5 +1,6 @@
 # Manoj Mutireddygari — AI & ML Engineer
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-0A66C2?style=for-the-badge)](https://manojmutireddy.42web.io/)
 [![GitHub followers](https://img.shields.io/github/followers/manoj-mutireddygari?label=Follow&style=social)](https://github.com/manoj-mutireddygari)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/manojmutireddygari)
 [![Email](https://img.shields.io/badge/Email-mutireddymanoj2305%40gmail.com-lightgrey?logo=gmail)](mailto:mutireddymanoj2305@gmail.com)
