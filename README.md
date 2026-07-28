@@ -5,27 +5,23 @@
 ### AI Engineer • Machine Learning Developer • Full-Stack Developer
 <div align="center">
 
-<a href="https://manojmutireddy.42web.io">🌐 <b>Portfolio</b></a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://manojmutireddy.42web.io">
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/globe.svg" width="38"/>
+</a>
+&nbsp;&nbsp;
 <a href="https://github.com/manoj-mutireddygari">
-<img src="https://cdn.simpleicons.org/github" width="16"/> <b>GitHub</b>
+<img src="https://skillicons.dev/icons?i=github" height="38"/>
 </a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/manojmutireddygari/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="18"/> <b>LinkedIn</b>
+<img src="https://skillicons.dev/icons?i=linkedin" height="38"/>
 </a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:mutireddymanoj2305@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="16"/> <b>Email</b>
+<img src="https://skillicons.dev/icons?i=gmail" height="38"/>
 </a>
-
-<br><br>
-
-👀
-<img src="https://komarev.com/ghpvc/?username=manoj-mutireddygari&label=Profile%20Views&style=flat-square&color=2563EB"/>
 
 </div>
-
 </div>
 
 
