@@ -129,14 +129,6 @@ VS Code • Postman
 `Python` `Flask` `Hugging Face` `Transformers`
 
 ---
-### 📈 Career Highlights
-
-- 🚀 Built multiple production-ready AI applications from concept to deployment.
-- 🧠 Hands-on experience with **Generative AI**, **Computer Vision**, and **Backend Engineering**.
-- 🤝 Worked in collaborative development environments using Git and Agile practices.
-- 💡 Passionate about building scalable software that solves real-world problems.
-
----
 ## 🚀 Featured Projects
 
 ### 🤖 Elevate
