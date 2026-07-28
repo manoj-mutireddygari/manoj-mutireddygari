@@ -5,15 +5,15 @@
 ### AI Engineer • Machine Learning Developer • Full-Stack Developer
 <div align="center">
 
-<a href="https://manojmutireddy.42web.io">
+<a href="https://manojmutireddy.42web.io" target="_blank">
 <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/globe.svg" width="38"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/manoj-mutireddygari">
+<a href="https://github.com/manoj-mutireddygari" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="38"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/manojmutireddygari/">
+<a href="https://www.linkedin.com/in/manojmutireddygari/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="38"/>
 </a>
 &nbsp;&nbsp;
