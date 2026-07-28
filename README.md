@@ -44,12 +44,12 @@ From AI-powered recruitment platforms and intelligent automation systems to deve
 ### 💻 Programming
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,php,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,js,mysql" />
 </p>
 
 <p align="center">
-Python • Java • JavaScript • PHP<br>
-HTML5 • CSS3 • SQL
+Python • Java<br>
+JavaScript • SQL
 </p>
 
 </td>
@@ -59,12 +59,12 @@ HTML5 • CSS3 • SQL
 ### ⚡ Frameworks
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi" />
 </p>
 
 <p align="center">
-React • Next.js • Node.js<br>
-Express • Flask • FastAPI
+React • Node.js<br>
+Flask • FastAPI
 </p>
 
 </td>
@@ -110,23 +110,23 @@ VS Code • Postman
 ---
 ## 💼 Experience
 
-### 🏢 SS40 Networks Pvt. Ltd.
-**Machine Learning Developer Intern**  
-📅 Jan 2026 – Aug 2026
-
-> Built production-ready AI applications powered by LLMs, RAG, and modern backend technologies.
-
-`Python` `LangChain` `LLMs` `RAG` `FastAPI` `Firebase`
-
----
-
-### 🤖 Pinnacle Labs Pvt. Ltd.
-**Artificial Intelligence Intern**  
-📅 2025
-
-> Developed NLP applications using Transformer models and machine learning.
-
-`Python` `Flask` `Hugging Face` `Transformers`
+```text
+2026
+│
+├── 🏢 SS40 Networks Pvt. Ltd.
+│   ├── 🤖 Machine Learning Developer Intern
+│   ├── 📅 Jan 2026 – Aug 2026
+│   ├── 🧠 Built AI applications using LLMs & RAG
+│   └── 💻 Python • LangChain • LLMs • FastAPI • Firebase
+│
+2025
+│
+└── 🤖 Pinnacle Labs Pvt. Ltd.
+    ├── 🧠 Artificial Intelligence Intern
+    ├── 📅 2025
+    ├── 🤖 Developed NLP applications with Transformers
+    └── 💻 Python • Flask • Hugging Face • Transformers
+```
 
 ---
 ## 🚀 Featured Projects
